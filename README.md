@@ -2,7 +2,7 @@
 <hr>
 <p>Este é um simples projeto usando a api do the movie db, usando react.js, next.js, tailwind css.</p>
 <br/>
-<p>Após clonar o repositório com <strong>git clone</strong> digite yarn para instalar todas as dependências.</p>
+<p>Após clonar o repositório com <strong>git clone</strong> digite <strong>yarn</strong> para instalar todas as dependências.</p>
 <br/>
 <p>Este projeto foi feito com a ideia de mobile-first.</p>
 
