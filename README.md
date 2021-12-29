@@ -16,5 +16,5 @@
 <img src="./second.png" >
 <hr>
 
-<h4>Tablet</h4>
+<h4>Mobile</h4>
 <img src="./third.png" >
